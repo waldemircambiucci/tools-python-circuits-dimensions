@@ -1,0 +1,13 @@
+Circuit	n	e	o	r	p	file
+ae_10	10	54	91	0.5934065934065934	54	ae_indep_qiskit_10.qasm
+qft_10	10	50	60	0.8333333333333334	21	qft_indep_qiskit_10.qasm
+qpeexact_10	10	47	66	0.7121212121212122	25	qpeexact_indep_qiskit_10.qasm
+ghz_10	10	9	10	0.9	11	ghz_indep_qiskit_10.qasm
+ae_50	50	1274	1471	0.8660774983004759	294	ae_indep_qiskit_50.qasm
+qft_50	50	1250	1300	0.9615384615384616	101	qft_indep_qiskit_50.qasm
+qpeexact_50	50	1249	1348	0.9265578635014837	149	qpeexact_indep_qiskit_50.qasm
+ghz_50	50	49	50	0.98	51	ghz_indep_qiskit_50.qasm
+ae_100	100	5049	5446	0.9271024605214837	594	ae_indep_qiskit_100.qasm
+qft_100	100	5000	5100	0.9803921568627451	201	qft_indep_qiskit_100.qasm
+qpeexact_100	100	4999	5198	0.961716044632551	299	qpeexact_indep_qiskit_100.qasm
+ghz_100	100	99	100	0.99	101	ghz_indep_qiskit_100.qasm
