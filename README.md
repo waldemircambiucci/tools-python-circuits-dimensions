@@ -6,6 +6,6 @@
 Author: Waldemir Cambiucci
 Update: March 2024
 
-# PYTHON QUANTUM CIRCUITS STATISTICS
+# TOOLS - PYTHON-CIRCUITS-DIMENSIONS
 
 A collection of useful scripts in Python + Qiskit to capture statistics and dimensions from quantum circuits benchmarks.
